@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-5swwp2.leogaming.cfd/sitemap.xml
